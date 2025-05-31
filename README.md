@@ -17,15 +17,17 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,express,mongodb,tailwind,js,ts,py,cpp&theme=dark" height="48" />
 </p>
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-2D0036?style=for-the-badge&logo=nextdotjs&logoColor=BC6FF1">
   <img src="https://img.shields.io/badge/React-8F00FF?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Express-2D0036?style=for-the-badge&logo=express&logoColor=BC6FF1">
   <img src="https://img.shields.io/badge/MongoDB-8F00FF?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-2D0036?style=for-the-badge&logo=html5&logoColor=BC6FF1">
-  <img src="https://img.shields.io/badge/CSS3-8F00FF?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-2D0036?style=for-the-badge&logo=javascript&logoColor=BC6FF1">
-  <img src="https://img.shields.io/badge/TypeScript-8F00FF?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-2D0036?style=for-the-badge&logo=tailwindcss&logoColor=BC6FF1">
+  <img src="https://img.shields.io/badge/JavaScript-8F00FF?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-2D0036?style=for-the-badge&logo=typescript&logoColor=BC6FF1">
+  <img src="https://img.shields.io/badge/Python-2D0036?style=for-the-badge&logo=python&logoColor=BC6FF1">
+  <img src="https://img.shields.io/badge/C++-8F00FF?style=for-the-badge&logo=cpp&logoColor=white">
 </div>
 
 ---

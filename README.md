@@ -14,7 +14,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,express,mongodb,html,css,js,ts&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,express,mongodb,tailwind,js,ts,py,cpp&theme=dark" height="48" />
 </p>
 
 <div align="center">

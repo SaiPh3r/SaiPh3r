@@ -37,7 +37,7 @@ name: SaiPh3r
 role: Full Stack Developer
 focus: Building slick, interactive, and high-performing web apps
 tools: [Next.js, React, Express, MongoDB, HTML, CSS, JS, TS]
-exploring: UI/UX, animations, and 3D on the web
+exploring: ML,AI
 ```
 
 ---
